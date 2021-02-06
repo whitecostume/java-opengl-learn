@@ -195,6 +195,10 @@ public class Test3 {
         GL33.glBindVertexArray(0);
 
 
+
+
+
+
         GL33.glUseProgram(shaderProgram);
         GL33.glUniform1i(GL33.glGetUniformLocation(shaderProgram,"texture"),0);
         GL33.glUniform1i(GL33.glGetUniformLocation(shaderProgram,"texture1"),1);

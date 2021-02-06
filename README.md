@@ -5,6 +5,6 @@ opengl练习
 
 引用了java的opengl绑定框架lwjgl，
 
-www.lwjgl.org，
+www.lwjgl.org
 
 真是了不起的开源库
